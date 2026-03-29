@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>咕咕嘎嘎</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+    background-color: #f1f1f1;
+    padding: 40px;
+    text-align: center;">
+      <a href="https://imgloc.com/image/OJHfcF">
+        <img src="https://i.imgs.ovh/2026/03/27/OJHfcF.th.jpeg" alt="OJHfcF.th.jpeg" border="0"width="108px">
+      </a>
+    </div>
+    <div style="
+    text-align: center;
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 15px;
+    line-height: 1.7;
+    ">
+      <p style="
+      color: #FFA500;">
+      
+      </p>
+      <p>
+        咕咕嘎嘎
+      </p>
+      <p>
+        咕咕嘎嘎
+      </p>
+      <p>
+        咕咕嘎嘎
+      </p>
+      <p>
+        咕咕嘎嘎
+      </p>
+      
+    </div>
+    <div style="
+    background-color: #f1f1f1;
+    padding: 40px;
+    text-align: center;
+    font-size: 16px;
+    clear:both;
+    ">
+    <p>咕咕嘎嘎</p>
+    </div>
+  </body>
+</html>
